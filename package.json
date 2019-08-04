@@ -6,5 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/miyamoen/hello-webrtc.git"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@open-ayame/ayame-web-sdk": "^19.7.2-rc0"
+  }
 }
