@@ -8,8 +8,11 @@
     "url": "git+https://github.com/miyamoen/hello-webrtc.git"
   },
   "dependencies": {
-    "@open-ayame/ayame-web-sdk": "^19.7.2-rc0",
-    "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "@open-ayame/ayame-web-sdk": "19.7.2-rc0"
+  },
+  "devDependencies": {
+    "webpack": "4.39.1",
+    "webpack-cli": "3.3.6",
+    "elm": "0.19.0-bugfix6"
   }
 }
